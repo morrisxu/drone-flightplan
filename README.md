@@ -10,7 +10,7 @@
 >
 > This repo was moved to be a package in a monorepo.
 >
-> https://github.com/hotosm/drone-tm/tree/development/src/backend/packages/drone-flightplan
+> https://github.com/hotosm/drone-tm/tree/develop/src/backend/packages/drone-flightplan
 >
 > See: https://github.com/hotosm/drone-tm/pull/521
 
